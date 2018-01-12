@@ -1,0 +1,23 @@
+{
+  "name": "thinknet",
+  "version": "0.0.1",
+  "description": "easy to use and koa.js or express.js middleware style net programming framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnemo/thinknet.git"
+  },
+  "author": "imnemo <oncoding1988@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imnemo/thinknet/issues"
+  },
+  "homepage": "https://github.com/imnemo/thinknet#readme",
+  "dependencies": {
+    "debug": "3.1.0",
+    "esoop": "1.0.0"
+  }
+}
