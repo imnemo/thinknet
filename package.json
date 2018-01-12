@@ -1,6 +1,6 @@
 {
   "name": "thinknet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "easy to use and koa.js or express.js middleware style net programming framework",
   "main": "index.js",
   "scripts": {
